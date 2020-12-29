@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- the light version -->
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=mzaboub)](https://github.com/mohouyizme/1337-readme)
+<!-- the dark theme version -->
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mzaboub)](https://github.com/mohouyizme/1337-readme)
