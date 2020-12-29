@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 <!-- the dark theme version -->
 <a href="https://github.com/mohouyizme/1337-readme">
-  <img aligne="center" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mzaboub" />
+  <img aligne="center" alt="1337 readme" height="490" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mzaboub" />
 </a>
 
 
 <!-- GitHub Stats Card      -->
 <a href="https://github.com/mohamedLazyBob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedLazyBob&line_height=40&show_icons=true&theme=dark" />
+  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=mohamedLazyBob&line_height=40&show_icons=true&theme=dark" />
 </a>
 
 <!-- Top Languages Card      -->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLazyBob&theme=dark" />
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLazyBob&theme=dark" />
 </a>
 
 
