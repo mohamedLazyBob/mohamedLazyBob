@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 
 
 <!-- the dark theme version -->
-<a href="https://github.com/mohouyizme/1337-readme">
+<!-- <a href="https://github.com/mohouyizme/1337-readme"> -->
   <img aligne="center" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mzaboub" />
-</a>
+<!-- </a> -->
 
 
 <!-- GitHub Stats Card      -->
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedLazyBob&show_icons=true&theme=radical" />
+<a href="https://github.com/mohamedLazyBob">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedLazyBob&show_icons=true&theme=dark" />
 </a>
-
 
 <!-- Top Languages Card      -->
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLazyBob" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLazyBob&theme=dark" />
 </a>
 
 
