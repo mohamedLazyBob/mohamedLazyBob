@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript, and especially react.
+- 🌱 I’m currently learning JavaScript, and everything related to it!.
 
 
 <!-- GitHub Stats Card      -->
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Top Languages Card      -->
-<a href="">
+<!-- <a href="">
   <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLazyBob&theme=dark" />
-</a>
+</a> -->
 
 <!-- 42Network card: the dark theme version -->
 <!--
