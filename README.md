@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript, and everything related to it!.
+- 🌱 Learning JavaScript, and everything related to it!.
 
 
 <!-- GitHub Stats Card      -->
-<a href="https://github.com/mohamedLazyBob">
+<!-- <a href="https://github.com/mohamedLazyBob">
   <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=mohamedLazyBob&line_height=40&show_icons=true&theme=dark" />
-</a>
+</a> -->
 
 <!-- Top Languages Card      -->
 <!-- <a href="">
