@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Learning JavaScript, and everything related to it!.
+- 🌱 Learning JavaScript, and everything related to it!
 
 
 <!-- GitHub Stats Card      -->
