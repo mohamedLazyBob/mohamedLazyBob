@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Learning JavaScript, and everything related to it!
+- 🌱 Writing TypeScript here and there.
+- 🔭 Currently, I am building projects for clients alongside my job as a coding trainer.
+- 📫 How to reach me: mozaboub@gmail.com
 
 
 <!-- GitHub Stats Card      -->
