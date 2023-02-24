@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Writing TypeScript here and there.
-- 🔭 Currently, I am building projects for clients alongside my job as a coding trainer.
+- 🔭 Currently, I am building projects for clients alongside my job as a Flying bocal member at [@01-edu](https://github.com/01-edu/)
 - 📫 How to reach me: mozaboub@gmail.com
 
 
